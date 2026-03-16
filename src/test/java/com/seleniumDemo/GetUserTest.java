@@ -5,7 +5,7 @@ import static io.restassured.RestAssured.*;
 
 public class GetUserTest {
 
-    @Test(enabled = false)
+    @Test()
     public void getUser(){
          baseURI = "https://reqres.in/api";
 
