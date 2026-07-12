@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE suite >
+<suite name="Command Line Suite">
+<test name="CLI Test">
+    <classes>
+        <class name="com.seleniumDemo.CreateUserTest"/>
+        <class name="com.seleniumDemo.GetUserTest"/>
+    </classes>
+</test>
+</suite>
+
